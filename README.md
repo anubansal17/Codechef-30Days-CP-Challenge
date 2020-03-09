@@ -4,3 +4,7 @@
 [Day3 Problem](https://www.codechef.com/WICP2002/problems/WICP003)</br>
 [Day4 Problem](https://www.codechef.com/WICP2002/problems/WICP004)</br>
 [Day5 Problem](https://www.codechef.com/WICP2002/problems/WICP005)</br>
+[Day6 Problem](https://www.codechef.com/WICP2002/problems/WICP006)</br>
+[Day7 Problem](https://www.codechef.com/WICP2002/problems/WICP007)</br>
+[Day8 Problem](https://www.codechef.com/WICP2002/problems/WICP008)</br>
+[Day9 Problem](https://www.codechef.com/WICP2002/problems/WICP009)</br>
